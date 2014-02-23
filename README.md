@@ -1,1 +1,1 @@
-Run all my Project benchmarks and pipe the results to a file 
+Run Go(lang) benchmarks and pipe the results to a file.
